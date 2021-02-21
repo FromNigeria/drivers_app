@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "308125060889",
+    "firebase_url": "https://alpha-logistics-ride-default-rtdb.firebaseio.com",
+    "project_id": "alpha-logistics-ride",
+    "storage_bucket": "alpha-logistics-ride.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308125060889:android:cd3be51d1096e34735ff88",
+        "android_client_info": {
+          "package_name": "com.example.alpha_logistic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308125060889-vk3bteonqsedn1h8pb6elia6qic1g4er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbBYQ3WtYGAx1gTwuAK37gsS_GToJwZr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308125060889-vk3bteonqsedn1h8pb6elia6qic1g4er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308125060889:android:9d820a9b03863dc435ff88",
+        "android_client_info": {
+          "package_name": "com.funsho.drivers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308125060889-vk3bteonqsedn1h8pb6elia6qic1g4er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbBYQ3WtYGAx1gTwuAK37gsS_GToJwZr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308125060889-vk3bteonqsedn1h8pb6elia6qic1g4er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

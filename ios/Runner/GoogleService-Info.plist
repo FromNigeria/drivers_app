@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>308125060889-j13ed3l8unqjh0t5unf9k2ulp7r4argo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.308125060889-j13ed3l8unqjh0t5unf9k2ulp7r4argo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB6iS1PeSmpAb5LbHUtn2aFif2gs21RN1k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>308125060889</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.funsho.driversApp</string>
+	<key>PROJECT_ID</key>
+	<string>alpha-logistics-ride</string>
+	<key>STORAGE_BUCKET</key>
+	<string>alpha-logistics-ride.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:308125060889:ios:72588b5b54d30e1935ff88</string>
+	<key>DATABASE_URL</key>
+	<string>https://alpha-logistics-ride-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
